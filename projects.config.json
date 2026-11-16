@@ -1,0 +1,19 @@
+{
+  "user": "MarwanSummakieh",
+  "exclude": ["MarwanSummakieh"],
+  "includeForks": false,
+  "descriptions": {
+    "Basket-Ball-VR": "Basketball VR experience for Oculus headsets, built in Unity with the XR Interaction Toolkit.",
+    "CnCGenerals-2026-09-05_23-08-25": "Neon Frontier: a single-player military RTS with two original factions, 52 unit and structure variants and a downloadable Windows build.",
+    "Emergency-Button": "TypeScript emergency alert app for quickly notifying others in an emergency.",
+    "GraduationDemo": "Graduation demo project built in C#.",
+    "marwan-summakieh": "My portfolio site: projects, devlog and an AI assistant that answers questions about my work.",
+    "MarwanOS": "PC1 / MarwanOS: a controller-only console OS on PC hardware. Custom Linux image, Godot shell, game library, browser and file manager.",
+    "Neural-Network": "A neural network built from scratch in Python for learning and experimentation.",
+    "real-time-video-feed-subsampling": "Master's thesis playground: real-time depth-based walkable-space encoding for simulated prosthetic vision.",
+    "social_graphs_project": "The Architecture of Fate: an interactive network-science and NLP explorer of the Elden Ring world.",
+    "storyroom": "Realtime collaborative novel-writing workspace (Next.js, TipTap, Yjs, Hocuspocus, Prisma).",
+    "trader": "Trading research and execution bot with monthly ETF rotation, a live dashboard and strategy comparisons.",
+    "Terminal": "A lightweight terminal application written in Go."
+  }
+}
