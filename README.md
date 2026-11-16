@@ -99,28 +99,28 @@
 <!-- PROJECTS:START -->
 | Project | What it is | Language | Last update |
 | --- | --- | --- | --- |
-| [mediawan](https://github.com/MarwanSummakieh/mediawan) | Self-hosted, invite-only streaming front-end for anime, films and TV. Published for educational purposes only - see the disclaimer in the README. | JavaScript | Nov 2026 |
-| [GraduationDemo](https://github.com/MarwanSummakieh/GraduationDemo) | Graduation demo project built in C#. | C# | Oct 2026 |
-| [MarwanOS](https://github.com/MarwanSummakieh/MarwanOS) | PC1 / MarwanOS: a controller-only console OS on PC hardware. Custom Linux image, Godot shell, game library, browser and file manager. | GDScript | Oct 2026 |
-| [pc1-installers](https://github.com/MarwanSummakieh/pc1-installers) | PC1 Windows and Proton installer worker, controller setup bridge and recipes | Python | Oct 2026 |
-| [pc1-services](https://github.com/MarwanSummakieh/pc1-services) | PC1 PipeWire audio manager and persistent Linux and Wine notification inbox | Python | Oct 2026 |
-| [trader](https://github.com/MarwanSummakieh/trader) | Trading research and execution bot with monthly ETF rotation, a live dashboard and strategy comparisons. | Python | Oct 2026 |
-| [pc1-shell](https://github.com/MarwanSummakieh/pc1-shell) | PC1 controller shell, Chromium browser, Files and keyboard | GDScript | Oct 2026 |
-| [pc1-controllers](https://github.com/MarwanSummakieh/pc1-controllers) | PC1 exclusive Linux input broker and virtual application controller routing | Python | Oct 2026 |
-| [pc1-fdm](https://github.com/MarwanSummakieh/pc1-fdm) | PC1 controller-friendly GPLv3 FDM Classic fork with download and BitTorrent support | C | Oct 2026 |
-| [envira-loss-experience](https://github.com/MarwanSummakieh/envira-loss-experience) | Insurance loss-experience service with audited CSV loading, independent verification, and a portfolio review UI | Python | Sep 2026 |
-| [envira_technical](https://github.com/MarwanSummakieh/envira_technical) | The technical interview with envira | Python | Sep 2026 |
-| [CnCGenerals-2026-09-05_23-08-25](https://github.com/MarwanSummakieh/CnCGenerals-2026-09-05_23-08-25) | Neon Frontier: a single-player military RTS with two original factions, 52 unit and structure variants and a downloadable Windows build. | C# | Sep 2026 |
-| [marwan-summakieh](https://github.com/MarwanSummakieh/marwan-summakieh) · [live](https://marwan-summakieh.vercel.app) | My portfolio site: projects, devlog and an AI assistant that answers questions about my work. | TypeScript | Sep 2026 |
-| [marusic](https://github.com/MarwanSummakieh/marusic) | Educational only - a Spotify-style web player for YouTube Music (Express + youtubei.js + yt-dlp), with PWA and Android Auto clients. | HTML | Sep 2026 |
-| [PC1](https://github.com/MarwanSummakieh/PC1) | A windows shell to use windows kernel as a base for sofa gaming mimicking the PS experience but on PC | JavaScript | Aug 2026 |
-| [real-time-video-feed-subsampling](https://github.com/MarwanSummakieh/real-time-video-feed-subsampling) | Master's thesis playground: real-time depth-based walkable-space encoding for simulated prosthetic vision. | Python | Jul 2026 |
-| [storyroom](https://github.com/MarwanSummakieh/storyroom) | Realtime collaborative novel-writing workspace (Next.js, TipTap, Yjs, Hocuspocus, Prisma). | TypeScript | Jul 2026 |
-| [social_graphs_project](https://github.com/MarwanSummakieh/social_graphs_project) · [live](https://marwansummakieh.github.io/social_graphs_project/) | The Architecture of Fate: an interactive network-science and NLP explorer of the Elden Ring world. | Jupyter Notebook | Jun 2026 |
-| [Neural-Network](https://github.com/MarwanSummakieh/Neural-Network) | A neural network built from scratch in Python for learning and experimentation. | Python | Apr 2025 |
-| [Emergency-Button](https://github.com/MarwanSummakieh/Emergency-Button) | TypeScript emergency alert app for quickly notifying others in an emergency. | TypeScript | Apr 2025 |
-| [Terminal](https://github.com/MarwanSummakieh/Terminal) | a terminal using Golang | Go | Apr 2025 |
-| [Basket-Ball-VR](https://github.com/MarwanSummakieh/Basket-Ball-VR) | Basketball VR experience for Oculus headsets, built in Unity with the XR Interaction Toolkit. | C# | Apr 2025 |
+| [mediawan](https://github.com/MarwanSummakieh/mediawan) | Educational self-hosted media library app (Node.js, Express, SQLite) with catalog search, download-client integration, HLS playback, subtitles and watch history | JavaScript | Nov 2026 |
+| [GraduationDemo](https://github.com/MarwanSummakieh/GraduationDemo) | Unity 6 third-person murder-mystery prototype on a carnival train: gather clues and testimony, build theories in a notebook, then accuse a suspect | C# | Oct 2026 |
+| [MarwanOS](https://github.com/MarwanSummakieh/MarwanOS) | Fedora/Universal Blue bootc image for PC1, a controller-only console OS with a Godot shell, gamescope session, Steam and Wine/Proton app support | GDScript | Oct 2026 |
+| [pc1-installers](https://github.com/MarwanSummakieh/pc1-installers) | Python worker that installs and launches Windows EXE/MSI apps in managed Wine/Proton prefixes for PC1, with a C bridge that makes setup wizards controller-friendly | Python | Oct 2026 |
+| [pc1-services](https://github.com/MarwanSummakieh/pc1-services) | PC1 session daemons in Python: a PipeWire audio manager and a D-Bus notification server that keeps a persistent inbox for the shell | Python | Oct 2026 |
+| [trader](https://github.com/MarwanSummakieh/trader) | Python trading bot running a monthly ETF momentum rotation on Alpaca paper trading, plus a simulated crypto instance, with backtests, a FastAPI dashboard and Docker | Python | Oct 2026 |
+| [pc1-shell](https://github.com/MarwanSummakieh/pc1-shell) | Godot 4 controller-first shell for PC1 (launcher, library, files, settings, on-screen keyboard) with an embedded Chromium browser built as a CEF GDExtension | GDScript | Oct 2026 |
+| [pc1-controllers](https://github.com/MarwanSummakieh/pc1-controllers) | Python evdev/uinput input broker for PC1 that exclusively grabs physical gamepads and hands games a gated virtual controller | Python | Oct 2026 |
+| [pc1-fdm](https://github.com/MarwanSummakieh/pc1-fdm) | Fork of Free Download Manager Classic (C++/MFC, HTTP and BitTorrent) adding a full-screen XInput controller UI so it runs as a PC1 app under Wine | C | Oct 2026 |
+| [envira-loss-experience](https://github.com/MarwanSummakieh/envira-loss-experience) | Interview task: FastAPI service that reports insurance loss experience by peril (premium, incurred loss, loss ratio, claims) in DKK, with a review UI and Docker | Python | Sep 2026 |
+| [envira_technical](https://github.com/MarwanSummakieh/envira_technical) | Interview task: FastAPI service and CLI that finds a Danish asset's nearest weather station and reports its wet days and highest three-day rainfall | Python | Sep 2026 |
+| [CnCGenerals-2026-09-05_23-08-25](https://github.com/MarwanSummakieh/CnCGenerals-2026-09-05_23-08-25) | Neon Frontier: an original single-player RTS in Unity 6 with two factions, base building, power and supply economy, fog of war, aircraft and AI skirmishes | C# | Sep 2026 |
+| [marwan-summakieh](https://github.com/MarwanSummakieh/marwan-summakieh) · [live](https://marwan-summakieh.vercel.app) | Source for my portfolio site: Next.js, TypeScript and Tailwind, with a project devlog and an AI chat assistant that answers questions about my work | TypeScript | Sep 2026 |
+| [marusic](https://github.com/MarwanSummakieh/marusic) | Educational Spotify-style web player for YouTube Music, built on Node.js/Express with youtubei.js and yt-dlp, plus a PWA and a Kotlin Jetpack Compose Android client | HTML | Sep 2026 |
+| [PC1](https://github.com/MarwanSummakieh/PC1) | Earlier Windows-based PC1 attempt: unattended stripped Windows 11 install media, a C# host that runs as the shell, and an Electron controller UI | JavaScript | Aug 2026 |
+| [real-time-video-feed-subsampling](https://github.com/MarwanSummakieh/real-time-video-feed-subsampling) | Master's thesis simulator for prosthetic vision: turns depth video into phosphene patterns, using RANSAC floor detection or a small PyTorch model to highlight walkable space | Python | Jul 2026 |
+| [storyroom](https://github.com/MarwanSummakieh/storyroom) | Realtime collaborative novel-writing workspace with shared TipTap editing, live cursors, scene chat and a story bible, built on Next.js, Yjs, Hocuspocus and Prisma | TypeScript | Jul 2026 |
+| [social_graphs_project](https://github.com/MarwanSummakieh/social_graphs_project) · [live](https://marwansummakieh.github.io/social_graphs_project/) | Network and NLP study of Elden Ring lore: a Python pipeline builds a graph from the Elden Ring Fan API, explored on an interactive Sigma.js site | Jupyter Notebook | Jun 2026 |
+| [Neural-Network](https://github.com/MarwanSummakieh/Neural-Network) | Neural-network building blocks from scratch in Python and NumPy: neurons, dense layers, ReLU and softmax activations, and cross-entropy loss | Python | Apr 2025 |
+| [Emergency-Button](https://github.com/MarwanSummakieh/Emergency-Button) | Bachelor's project: React Native (Expo) app that sends your GPS location as an emergency alert, notifies nearby responders and shows danger zones on a map | TypeScript | Apr 2025 |
+| [Terminal](https://github.com/MarwanSummakieh/Terminal) | Minimal GUI terminal emulator in Go that runs bash in a pseudo-terminal and renders its output in a Fyne window | Go | Apr 2025 |
+| [Basket-Ball-VR](https://github.com/MarwanSummakieh/Basket-Ball-VR) | Small Unity VR basketball scene for Oculus headsets built with the XR Interaction Toolkit: grab the ball and shoot at a hoop | C# | Apr 2025 |
 <!-- PROJECTS:END -->
 
 ### 📊 Languages across my repositories

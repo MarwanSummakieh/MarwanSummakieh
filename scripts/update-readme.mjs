@@ -45,7 +45,8 @@ const repos = all
 
 // --- Projects table ---------------------------------------------------------
 const rows = repos.map((r) => {
-  const desc = r.description || config.descriptions[r.name] || "";
+  // The config is the source of truth for the home page; fall back to the repo's own About text.
+  const desc = config.descriptions[r.name] || r.description || "";
   const links = [`[${escape(r.name)}](${r.html_url})`];
   if (r.homepage && !r.homepage.includes("github.com/users/")) links.push(`[live](${r.homepage})`);
   const stars = r.stargazers_count ? ` ⭐ ${r.stargazers_count}` : "";
