@@ -99,7 +99,7 @@
 <!-- PROJECTS:START -->
 | Project | What it is | Language | Last update |
 | --- | --- | --- | --- |
-| [mediawan](https://github.com/MarwanSummakieh/mediawan) | Educational self-hosted media library app (Node.js, Express, SQLite) with catalog search, download-client integration, HLS playback, subtitles and watch history | JavaScript | Nov 2026 |
+| [mediawan](https://github.com/MarwanSummakieh/mediawan) | Educational self-hosted media library app (Node.js, Express, SQLite) with catalog search, download-client integration, HLS playback, subtitles and watch history | Python | Nov 2026 |
 | [GraduationDemo](https://github.com/MarwanSummakieh/GraduationDemo) | Unity 6 third-person murder-mystery prototype on a carnival train: gather clues and testimony, build theories in a notebook, then accuse a suspect | C# | Oct 2026 |
 | [MarwanOS](https://github.com/MarwanSummakieh/MarwanOS) | Fedora/Universal Blue bootc image for PC1, a controller-only console OS with a Godot shell, gamescope session, Steam and Wine/Proton app support | GDScript | Oct 2026 |
 | [pc1-installers](https://github.com/MarwanSummakieh/pc1-installers) | Python worker that installs and launches Windows EXE/MSI apps in managed Wine/Proton prefixes for PC1, with a C bridge that makes setup wizards controller-friendly | Python | Oct 2026 |
@@ -127,17 +127,17 @@
 
 <!-- LANGUAGES:START -->
 ```text
-Python      ████████████████████  8 repos
-C#          ████████░░░░░░░░░░░░  3 repos
-TypeScript  ████████░░░░░░░░░░░░  3 repos
-GDScript    █████░░░░░░░░░░░░░░░  2 repos
-JavaScript  █████░░░░░░░░░░░░░░░  2 repos
-C           ███░░░░░░░░░░░░░░░░░  1 repo
-Go          ███░░░░░░░░░░░░░░░░░  1 repo
-HTML        ███░░░░░░░░░░░░░░░░░  1 repo
+Python      ████████████████████  9 repos
+C#          ███████░░░░░░░░░░░░░  3 repos
+TypeScript  ███████░░░░░░░░░░░░░  3 repos
+GDScript    ████░░░░░░░░░░░░░░░░  2 repos
+C           ██░░░░░░░░░░░░░░░░░░  1 repo
+Go          ██░░░░░░░░░░░░░░░░░░  1 repo
+HTML        ██░░░░░░░░░░░░░░░░░░  1 repo
+JavaScript  ██░░░░░░░░░░░░░░░░░░  1 repo
 ```
 <!-- LANGUAGES:END -->
 
 <!-- UPDATED:START -->
-<sub>22 public projects · updated automatically by GitHub Actions on 2026-11-16</sub>
+<sub>22 public projects · updated automatically by GitHub Actions on 2026-11-17</sub>
 <!-- UPDATED:END -->
